@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://anti-sandbox.github.io/syair-hari-ini/sitemap.xml
